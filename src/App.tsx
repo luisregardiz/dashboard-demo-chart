@@ -7,6 +7,9 @@ const App = () => {
             <Button color='primary' size='md' variant='outline'>
                 Outline
             </Button>
+            <Button color='secondary' size='md' variant='solid'>
+                Secondary
+            </Button>
         </main>
     )
 }
